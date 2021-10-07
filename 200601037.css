@@ -1,0 +1,110 @@
+
+html 
+{
+    font-family:Arial, sans-serif;
+    background-color: hsl(96, 78%, 82%);
+    color: rgb(0, 0, 0);
+}
+
+.titleBox
+{
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-weight: bolder;
+  color: rgb(49, 21, 151);
+  top: 20px;
+  margin-top: 50px; 
+  font-size: larger
+}
+
+.constantText
+{
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-weight: bolder;
+  color: #000;
+  top: 20px;
+  margin-top: 50    px; 
+}
+
+  input[type="button"] 
+  {
+    color: hsl(0, 30%, 95%);
+    font-family: 'Lato';
+    text-align: center;
+    margin-left: 200px;
+    font-weight: bold;
+    background-color:  rgb(1, 112, 60);
+    margin-top: 80px;
+    border-radius: 32px;
+    padding: 20px;
+  }
+
+  
+  .textboxStyler 
+  {
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+    text-align: center;
+    
+  }
+  
+
+  .footer
+{
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:50px;
+    width:100%;
+    font-weight: bold;
+  }
+  
+  .textBox
+{
+    padding: 0;
+    display: flex ;
+    justify-content: flex-start;
+    height: 40px;
+    position: relative;
+    left: 0;
+    outline: none;
+    border: 2px solid hsl(26, 93%, 84%);
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(1, 112, 60);
+    font-size: 16px;
+    color: hsl(212, 100%, 86%);
+    width: 160px;
+    height: 40px;
+    margin-right: -4px;
+    border-radius: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+.conclusionBox
+{
+
+  padding: 0;
+  display: flex ;
+  justify-content: flex-start;
+  height: 15px;
+  position: relative;
+  left: 0;
+  outline: none;
+  border: 2px solid hsl(0, 0%, 0%);
+  border-color: hsl(0, 0%, 0%);
+  background-color: rgb(1, 112, 60);
+  font-size: 16px;
+  color: hsl(212, 100%, 86%);
+  width: 160px;
+  height: 40px;
+  margin-right: -4px;
+  border-radius: 20px;
+  margin: auto;
+  text-align: center;
+
+}
+ 
+
